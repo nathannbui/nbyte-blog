@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mac OS inspired blog page
 
 
@@ -125,13 +124,5 @@ npm run build
 
 MIT License. See [LICENSE](LICENSE) for details.
 
-
----
-
-
-Made by [@nerdynikhil](https://github.com/nerdynikhil). If you use this template, a star on the repo would be appreciated!
-
-=======
 # nbyte-blog
 A frontend project to make a macOS inspired blog page. 
->>>>>>> 0d2302ee52ba53709d550bce67549a7c53e8f00f
